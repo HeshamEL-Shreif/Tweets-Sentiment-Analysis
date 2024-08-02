@@ -31,6 +31,7 @@ List all the dependencies required to run the notebook:
 - Pandas
 - Scikit-learn
 - Matplotlib
+- umap learn
 
 ## Installation
 
