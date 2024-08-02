@@ -62,8 +62,10 @@ Outline the model training process:
 - Metrics (accuracy, F1 score)
 
 ## Results
-###Distil-Bert
+
+### Distil-Bert
   - Accuracy: 0.932949
   - F1 score: 0.933000
-###LogisticRegression
+  - 
+### LogisticRegression
   - Accuracy: 0.634
